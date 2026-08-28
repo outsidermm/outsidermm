@@ -1,27 +1,20 @@
-# Hi, I'm Xujing (James) Mao 👋
+# Hi, I'm Xujing (James) Mao
 
-CS student at Georgia Tech, originally from Sydney, Australia. Currently a Software Engineer Intern at **Voqo AI**, building full-stack AI systems — RAG pipelines, LLM evaluation harnesses, and the product around them.
+CS student at Georgia Tech, currently pursuing the intersection of AI safety and production application. Happy to chat.
 
-I like working across the whole stack: a PostgreSQL schema and API on one end, an LLM-powered feature on the other, and everything needed to ship it in between.
+## Connect
 
-## 🔗 Connect
+- LinkedIn: [linkedin.com/in/xujingmao](https://linkedin.com/in/xujingmao)
+- GitHub: [github.com/outsidermm](https://github.com/outsidermm)
+- Email: [xjmao2008@gmail.com](mailto:xjmao2008@gmail.com)
 
-- 💼 [LinkedIn](https://linkedin.com/in/xujingmao)
-- 🐙 [GitHub](https://github.com/outsidermm)
-- 📫 [xjmao2008@gmail.com](mailto:xjmao2008@gmail.com)
-
-## 💼 Experience
-
-- **Software Engineer Intern, Voqo AI** *(May 2026 – July 2026)* — Owned Prompt Studio end-to-end, fused vector + lexical search with Reciprocal Rank Fusion for a real-estate RAG pipeline, and built a DeepEval regression harness for agent prompts.
-- **Research Assistant, Northwestern University** *(Mar 2024 – Aug 2024)* — Designed a hyperparameter optimization algorithm for TensorFlow/Keras VGG16 pipelines, cutting tuning time 63% vs. grid search; co-authored the resulting paper.
-- **Drivetrain & Vision Lead, FIRST Robotics Team 4774** *(Jan 2023 – Mar 2024)* — Built Kalman-filter robot localization fusing odometry with AprilTag vision, and spline-based autonomous trajectory generation.
-
-## 🚀 Featured projects
+## Cool projects
 
 - **NeuroStream** — Self-supervised EEG foundation model (PyTorch). Benchmarked a ViT masked-autoencoder against a CNN baseline and reproduced EEGNet on BCI Competition IV 2a within 2% of published accuracy.
 - **Full Stack Airtable Clone** — High-performance data grid (TypeScript, tRPC). Hybrid cursor/offset pagination over TanStack Virtual holding sub-200ms queries on 2M+ row Postgres tables, with a JSONB schema supporting 100K-row bulk inserts in 15s.
+- **Hyperparameter Search** — Optimization algorithm for TensorFlow/Keras VGG16 pipelines on CIFAR-100, cutting tuning time by 63% compared with conventional grid search.
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 **Languages**
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -49,6 +42,6 @@ I like working across the whole stack: a PostgreSQL schema and API on one end, a
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-## 📊 GitHub stats
+## GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=outsidermm&show_icons=true&theme=default&hide_border=true" alt="James's GitHub stats" height="165" />
