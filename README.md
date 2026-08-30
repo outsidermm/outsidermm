@@ -10,9 +10,9 @@ CS student at Georgia Tech, currently pursuing the intersection of AI safety and
 
 ## Cool projects
 
-- **NeuroStream** — Self-supervised EEG foundation model (PyTorch). Benchmarked a ViT masked-autoencoder against a CNN baseline and reproduced EEGNet on BCI Competition IV 2a within 2% of published accuracy.
-- **Full Stack Airtable Clone** — High-performance data grid (TypeScript, tRPC). Hybrid cursor/offset pagination over TanStack Virtual holding sub-200ms queries on 2M+ row Postgres tables, with a JSONB schema supporting 100K-row bulk inserts in 15s.
-- **Hyperparameter Search** — Optimization algorithm for TensorFlow/Keras VGG16 pipelines on CIFAR-100, cutting tuning time by 63% compared with conventional grid search.
+- **[NeuroStream](https://github.com/outsidermm/neurostream)** — Self-supervised EEG foundation model (PyTorch). Benchmarked a ViT masked-autoencoder against a CNN baseline and reproduced EEGNet on BCI Competition IV 2a within 2% of published accuracy.
+- **[Full Stack Airtable Clone](https://github.com/outsidermm/airtable-clone)** — High-performance data grid (TypeScript, tRPC). Hybrid cursor/offset pagination over TanStack Virtual holding sub-200ms queries on 2M+ row Postgres tables, with a JSONB schema supporting 100K-row bulk inserts in 15s.
+- **[Hyperparameter Search](https://github.com/outsidermm/Heuristic-driven-Hyperparameter-Optimization-Algorithms)** — Optimization algorithm for TensorFlow/Keras VGG16 pipelines on CIFAR-100, cutting tuning time by 63% compared with conventional grid search.
 
 ## Tech I work with
 
@@ -41,7 +41,3 @@ CS student at Georgia Tech, currently pursuing the intersection of AI safety and
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=outsidermm&show_icons=true&theme=default&hide_border=true" alt="James's GitHub stats" height="165" />
